@@ -52,3 +52,7 @@ npm run dev
 * Pagination
 * Backend API Integration
 * Export data to PDF or Excel
+
+## Live Demo
+
+🔗 [View Live Project](https://student-management-dashboard-chi.vercel.app/)
