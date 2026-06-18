@@ -5,7 +5,7 @@ A web application to manage student records efficiently.
 ## Features
 
 * Add new students
-* DashBoard
+* Dashboard
 * Delete student records
 * Search students
 
@@ -20,19 +20,19 @@ A web application to manage student records efficiently.
 
 ## DashBoard
 
-![Dashboard](./Screenshots/dashboard.png)
+![Dashboard](./Screenshots/Dashboard.png)
 
 ## Add_Student
 
-![Dashboard](./Screenshots/Add_Student.png)
+![Add_Student](./Screenshots/Add_Student.png)
 
 ## Search_Student
 
-![Dashboard](./Screenshots/Search_Student.png)
+![Search_Student](./Screenshots/Search_Student.png)
 
 ## Delete_Student
 
-![Dashboard](./Screenshots/Delete_Student.png)
+![Delete_Student](./Screenshots/Delete_Student.png)
 
 ## Installation
 
